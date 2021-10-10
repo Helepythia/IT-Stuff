@@ -1,5 +1,5 @@
 # IT-Stuff
-Helpful links for random IT stuff
+<h1>Helpful links for random IT stuff</h1>
 
 
 How to disable Intel Turbo Boost to improve battery life and heat. 
